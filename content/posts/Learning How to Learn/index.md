@@ -4,7 +4,7 @@ date: 2020-04-25 11:12:00-0400
 description: Introduction to Sample Post
 menu:
   sidebar:
-    name: Courses
+    name: Course Reviews
     identifier: courses
     weight: 10
 ---
