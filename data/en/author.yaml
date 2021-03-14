@@ -1,0 +1,17 @@
+# some information about you
+name: "Barbara Rentroia Pacheco"
+nickname: "Barbara"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I'm"
+#image: "images/author/tn2.png"
+
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "barentroia@gmail.com"
+  #phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - I'm a Bioinformatician
+  - I can talk for hours about data science, especially if applied to health
+  - I love travelling, dancing and hiking
